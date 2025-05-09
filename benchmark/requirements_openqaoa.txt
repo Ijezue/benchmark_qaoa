@@ -1,0 +1,10 @@
+numpy
+pennylane
+matplotlib
+openqaoa
+docplex
+dwave-system
+dwave-cloud-client
+dwave-ocean-sdk
+dimod
+pandas

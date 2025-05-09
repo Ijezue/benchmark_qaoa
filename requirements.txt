@@ -1,0 +1,18 @@
+# lower bound set to latest known working version
+# may (likely) works with older versions as well
+dwave-ocean-sdk>=7.1.0
+osmnx>=1.9.1
+matplotlib~=3.0
+mapclassify>=2.6.0
+folium==0.15.1
+dash[diskcache]==2.15.0
+dwave-cloud-client==0.13.1
+dwave-gate==0.3.2
+dwave-hybrid==0.6.12
+matplotlib
+matplotlib-inline
+numpy
+pandas
+Pillow
+requests
+seaborn
